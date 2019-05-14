@@ -39,4 +39,5 @@ alert(cache.get('a'));
 ## 关于作者
 
 - 个人主页
+https://github.com/hanzhenyu2018
 - 收款二维码
